@@ -1,0 +1,12 @@
+přečteme kolik je úloh
+uděláme cyklus, ktery se bude opakovat, dokud nejsou splněny všechny úlohy
+	přečteme cenu
+	přečteme kolik je mincí 
+	splitneme mince
+	sečteme mince a převedem je na číslo, zjistíme kolik máme peněz
+	pokud kolik máme peněz >= cena:
+		výstup bude Ano
+	jinak
+		výstup bude Ne
+	
+	
